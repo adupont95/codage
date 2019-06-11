@@ -42,7 +42,7 @@ a:hover {
 }
 
 #logo{
-  color: rgb(225, 0, 152);
+  color: rgb(225, 50, 152);
   font-size: 35px;
   font-family: 'Pacifico', cursive;
 }
@@ -55,11 +55,13 @@ a:hover {
   padding: 150px;
   color: white;
   text-shadow: 1px 1px 5px black;
+  background-image: url("howimet.jpg");
 }
 
 #baseline h1 {
   color: white;
   font-size: 50px;
+
 }
 
 #baseline a {
@@ -67,4 +69,20 @@ a:hover {
   font-size: 30px;
   font-weight: lighter;
   text-decoration: none;
+
 }
+ .feature {border: 1px solid #F2F2F2;
+  margin: 15px;
+  padding: 15px 0;
+  text-align: center;
+  width: 400px;
+  background-color: #F3EFEF;
+}
+
+  #apropos{
+  margin: 0 auto;
+  width: 80%;border;
+  1px solid #F2F2F2;
+   background-color: #F3EAEF
+}
+.footer {text-align: center;;border: 1px solid #F2F2F2;background-color: #000;}
