@@ -69,6 +69,9 @@ a:hover {
   text-shadow: 1px 1px 5px black;
   background-image: url("howimet.jpg");
 }
+#baseline a:hover {
+  background-size: 110%;
+}
 
 #baseline h1 {
   color: white;
@@ -95,6 +98,9 @@ font-size: 25pt;
   border-color:#5A5A5A;
 }
 
+
+
+
 .red{
   color:red;
 }
@@ -107,6 +113,7 @@ font-size: 25pt;
   width: 80%;border: 1px solid;
    background-color: #F3EAEF
 }
+
 
 .footer {text-align: center;;border: 1px solid #F2F2F2;background-color: #000;}
 
