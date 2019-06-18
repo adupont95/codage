@@ -60,7 +60,7 @@ a:hover {
   margin-left: 50px;
 }
 
-/* Mis en forme de la baseline */
+
 #baseline{
   text-align: center;
   background-size: cover;
@@ -69,6 +69,7 @@ a:hover {
   text-shadow: 1px 1px 5px black;
   background-image: url("howimet.jpg");
 }
+
 #baseline a:hover {
   background-size: 110%;
 }
@@ -89,7 +90,7 @@ a:hover {
 font-size: 25pt; 
 }
 
- .feature {border: 1px solid #F2F2F2;
+ .feature,.defi {border: 1px solid #F2F2F2;
   margin: 15px;
   padding: 15px 0;
   text-align: center;
@@ -140,4 +141,19 @@ font-size: 25pt;
 
 .container:hover .overlay {
   opacity: 1;
+}
+
+#welcome{
+  background-color: #41A3C0;
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+
+#welcome h4{
+ font-size: 50px;
+}
+
+#defi{
+  position: center;
 }
